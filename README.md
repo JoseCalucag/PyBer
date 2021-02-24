@@ -7,7 +7,7 @@
 
 ## Analysis Overview
 
-I was tasked by the ride sharing app Pyber to leverage some 2019 data (during the months of January to April) to gain some insights looking at three disctinct city types: Rural, Suburban and Urban. With this dataset, I will use Pandas and Matplotlib packages with Python programming to create data frames and a multi-line graph that will illustrate each city types' data points. With this report, I'm hoping it can show some level of impact for the stakeholders moving forward with how each city type has distinct qualities with their user bases.
+I was tasked by the ride sharing app Pyber to leverage data from 2019 during the months of January to April to gain some insights looking at three disctinct city types: Rural, Suburban and Urban. With this dataset, I will use the Pandas and Matplotlib packages in Python to create data frames and a multi-line graph that will illustrate each city types' data points. With this report, I'm hoping it can show some level of impact for stakeholders moving forward with how each city type has distinct qualities with their user bases.
  
 ## Results
 
